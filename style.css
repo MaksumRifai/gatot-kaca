@@ -11,6 +11,8 @@ body {
 
 .logo {
   padding-bottom: 15px;
+  width: 100%;
+  height: auto;
 }
 
 .search {
